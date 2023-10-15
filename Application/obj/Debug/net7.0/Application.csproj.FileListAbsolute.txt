@@ -13,3 +13,4 @@ C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Application\obj\Debug
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Application\obj\Debug\net7.0\refint\Application.dll
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Application\obj\Debug\net7.0\Application.pdb
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Application\obj\Debug\net7.0\Application.sourcelink.json
