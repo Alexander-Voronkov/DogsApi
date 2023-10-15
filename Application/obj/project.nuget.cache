@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QC71VYKTlPLzLAbtVuVW5UJ8be+59ieMvWlBw9trykV+8grsgAtA9t9XBKDQKZyZK9h2Bb4n8ZZhwhkgny//vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OleksandrVoronkov\\source\\repos\\CodebridgeTestTask\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\riok.mapperly\\3.2.0\\riok.mapperly.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
