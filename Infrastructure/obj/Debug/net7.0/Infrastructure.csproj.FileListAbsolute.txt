@@ -16,5 +16,3 @@ C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\De
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
-C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
-C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache

@@ -32,9 +32,9 @@ builder.Services.AddSingleton<IRateLimitConfiguration, RateLimitConfiguration>()
 
 var app = builder.Build();
 
-app.UseIpRateLimiting();
-
 app.UseMiddleware<ExceptionMiddleware>();
+
+app.UseIpRateLimiting();
 
 if (app.Environment.IsDevelopment())
 {
