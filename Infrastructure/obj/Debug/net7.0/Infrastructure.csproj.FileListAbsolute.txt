@@ -4,7 +4,6 @@ C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\De
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
-C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\bin\Debug\net7.0\Application.dll
@@ -15,6 +14,7 @@ C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\De
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
-C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
 C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
+C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+C:\Users\OleksandrVoronkov\source\repos\CodebridgeTestTask\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache

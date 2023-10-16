@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "que9JFafpYAOsjZKiQiN+hOUpajJFe7gnum4l9N7IGSq8flIz4883ufSNntyEe09p82eDrydPt9yRMrj5BD57Q==",
+  "dgSpecHash": "R7dY889OZyj9fjUAz8iegRtIouu2qnEXiECRbU+xe1tR5EpUpi7VC5TONWPTzLAeWw2GkWjeus/iYCEUVf86Fw==",
   "success": true,
   "projectFilePath": "C:\\Users\\OleksandrVoronkov\\source\\repos\\CodebridgeTestTask\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,6 @@
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.12\\microsoft.entityframeworkcore.design.7.0.12.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.12\\microsoft.entityframeworkcore.relational.7.0.12.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.12\\microsoft.entityframeworkcore.sqlserver.7.0.12.nupkg.sha512",
-    "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.12\\microsoft.entityframeworkcore.tools.7.0.12.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

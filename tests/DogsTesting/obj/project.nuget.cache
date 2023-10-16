@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "j5gaXG971yOp4xTs9KyuK55YKg63U2ryzUXJHLshe26BJrl/0BqCY5LU81OnUQ1iheCA0emDCVhWZyevhGpQbg==",
+  "dgSpecHash": "fvc9h6AuXjM3q9PvYZBtUWJ3U5LQoPnE4SHiVVCKnVlrliOBAamIy/+cQCAxEHwGYSNxuo5LWaW8QfWB4MtAnA==",
   "success": true,
   "projectFilePath": "C:\\Users\\OleksandrVoronkov\\source\\repos\\CodebridgeTestTask\\tests\\DogsTesting\\DogsTesting.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
@@ -18,7 +17,6 @@
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
@@ -46,7 +44,6 @@
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
-    "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\OleksandrVoronkov\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",

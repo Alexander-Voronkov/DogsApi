@@ -4,6 +4,7 @@ using Infrastructure.Data.Interceptors;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.Extensions.DependencyInjection;
+using System.Reflection;
 
 namespace Infrastructure
 {
@@ -16,7 +17,10 @@ namespace Infrastructure
             services.AddDbContext<ApplicationDbContext>((sp, options) =>
             {
                 options.AddInterceptors(sp.GetServices<ISaveChangesInterceptor>());
-                options.UseSqlServer(connstr);
+                options.UseSqlServer(connstr, settings =>
+                {
+                    settings.MigrationsAssembly(Assembly.GetExecutingAssembly().GetName().Name);
+                });
             });
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();

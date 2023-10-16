@@ -9,7 +9,7 @@ namespace Infrastructure.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
-            base.Database.EnsureCreated();
+            base.Database.Migrate();
         }
 
         public DbSet<Dog> Dogs => Set<Dog>();

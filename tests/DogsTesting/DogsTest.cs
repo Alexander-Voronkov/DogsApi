@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using Xunit;
-using Moq;
 using Application.Common.Interfaces;
 using Application.Handlers.Dogs.Commands.CreateDog;
 using Domain.Entities;
